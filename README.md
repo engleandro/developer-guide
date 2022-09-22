@@ -11,6 +11,8 @@ This developer's guide is a collection of knowledge by gathering information dur
 ## SOURCES
 * [Python.org developer's guide](https://devguide.python.org/)
 * [Testdriven.io](https://testdriven.io/guides/complete-python/)
+* [Real Python Tutorials](https://realpython.com/)
+* [Python Generators (yield)](https://realpython.com/introduction-to-python-generators/)
 
 This guide is based on:
 * Unix (Debian\Ubuntu 22.04) operational system;
